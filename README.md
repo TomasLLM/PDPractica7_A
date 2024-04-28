@@ -1,4 +1,4 @@
-# PRACTICA 6: BUSOS DE COMUNICACIÓ 3 (I2S)
+# PRACTICA 7: BUSOS DE COMUNICACIÓ 3 (I2S)
 ### Autor: Tomàs Lloret
 
 L'objectiu d'aquesta pràctica és describir i entendre el funcionament del bus I2S.
